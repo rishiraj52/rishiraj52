@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DSA** and **Python** language.
 
-- 👯 I’m looking to collaborate on any **C or C++ Project**.
+- 👯 Working on myself and going ahead to become future **Software Developer**.
 
 - 🤔 I’m looking for help with **Software Development** (Basically in search of **Mentor**).
 
