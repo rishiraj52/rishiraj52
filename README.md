@@ -1,5 +1,5 @@
 ### <h1 align="center">Hi there 👋, I'm Rishiraj Chauhan
-<h4 align="center" font="https://www.fontspace.com/beautiful-people-font-f29700">Believe in Yourself</h4>
+<h2 align="center" font="https://www.fontspace.com/beautiful-people-font-f29700">Believe in Yourself</h2>
 
   <p>
     -------------------------------------------------------------------------------------------------------------------------------------------------------
