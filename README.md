@@ -7,7 +7,7 @@
   
 - 🔭 I’m currently a student at **Greater Noida Institute of Technology,GGSIPU**.
 
-- 🌱 I’m currently learning **DSA** and **Python** language.
+- 🌱 I’m currently learning **DSA** and **Javascript** language.
 
 - 👯 Working on myself and going ahead to become future **Software Developer**.
 
