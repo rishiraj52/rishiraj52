@@ -5,13 +5,11 @@
     --------------------------------------------------------------------------------------------------------------------------------------------------
   </p>
   
-- 🔭 I’m currently a student at **Greater Noida Institute of Technology,GGSIPU**.
+- 🔭 Currently a student at **Greater Noida Institute of Technology,GGSIPU**.
 
-- 🌱 I’m currently learning **DSA** and **Javascript** language.
+- 🌱 Learning **DSA** and **Javascript** language.
 
 - 👯 Working on myself and going ahead to become future **Software Developer**.
-
-- 🤔 I’m looking for help with **Software Development** (Basically in search of **Mentor**).
 
 - 📫 How to reach me: **rajrishi0509@gmail.com**.
 
