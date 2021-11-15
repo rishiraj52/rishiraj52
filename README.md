@@ -7,9 +7,9 @@
   
 - 🔭 Currently a student at **Greater Noida Institute of Technology,GGSIPU**.
 
-- 🌱 Learning **DSA** and **Javascript** language.
+- 🌱 Learning **DSA**.
 
-- 👯 Working on myself and going ahead to become future **Software Developer**.
+- 👯 Working on myself.
 
 - 📫 How to reach me: **rajrishi0509@gmail.com**.
 
